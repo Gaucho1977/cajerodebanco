@@ -1,3 +1,5 @@
+/*  Ejercicio cajero de banco */
+
 
 var saldo = 5000
 
